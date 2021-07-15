@@ -1,6 +1,6 @@
 # esi
 
-The simpliest and worst way to install Everlasting Summer mods on Android 11
+The simpliest and worst way to install Everlasting Summer mods for Android 11. **THIS THING IS NOT TESTED ON ANDROID 11 AND MIGHT NOT WORK!**
 
 You (*almost*) don't need to connect your phone to a computer
 
